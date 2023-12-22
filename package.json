@@ -1,0 +1,15 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "This is Namste React by Akshay saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sneha",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
